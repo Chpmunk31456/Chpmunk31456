@@ -36,9 +36,7 @@ I work with and create practical resources around frameworks and standards inclu
 
 ## Certifications and Professional Development
 
-- Certified Chief Information Security Officer — CCISO
-- Certified Information Security Manager — CISM
-- Ongoing professional development in AI governance, security, risk, cloud, and emerging technology
+- Committed to continuous professional development in AI governance, cybersecurity, information security, enterprise risk management, cloud technologies, digital transformation, and emerging technologies through ongoing learning, industry research, and executive education.
 
 ## Featured Projects
 
