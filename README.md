@@ -34,9 +34,11 @@ I work with and create practical resources around frameworks and standards inclu
 - OWASP guidance for AI and large language models
 - MITRE ATT&CK and MITRE ATLAS
 
-## Certifications and Professional Development
+## CERTIFICATIONS AND PROFESSIONAL DEVELOPMENT
 
-- Committed to continuous professional development in AI governance, cybersecurity, information security, enterprise risk management, cloud technologies, digital transformation, and emerging technologies through ongoing learning, industry research, and executive education.
+CCISO – Certified Chief Information Security Officer | CISM – Certified Information Security Manager | ISO/IEC 27001:2022 Lead Auditor | ISO/IEC 42001:2023 Lead Auditor | ISACA Advanced in AI Audit | Microsoft Azure Security Engineer Associate (AZ-500) | ISC2 Certified in Cybersecurity | AWS Cloud Technology Consultant | PCI DSS v4.0 Training | Qualys VMDR and Vulnerability Management Training | Palo Alto Networks Cybersecurity | IBM Artificial Intelligence, Python, and Data Science Certificates
+
+Maintains continuous professional development in AI governance and security, cybersecurity, enterprise risk management, cloud governance, digital transformation, and emerging technologies through structured training, executive education, industry research, and practical study.
 
 ## Featured Projects
 
