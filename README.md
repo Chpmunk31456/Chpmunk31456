@@ -62,6 +62,10 @@ A practical multilingual collection covering AI security, governance, risk, comp
 
 A structured collection of governance, risk, compliance, assurance, resilience, cloud-risk, third-party-risk, and regulatory-readiness materials.
 
+#### [ETF and Colombia Investing Learning Project](https://github.com/Chpmunk31456/ETF-Colombia-Investing-Learning)
+
+A structured educational learning system covering ETFs, Colombian investment products, cross-border planning, retirement cash flow, fraud prevention, portfolio governance, and real-estate decision controls.
+
 ### Public-Interest Mission
 
 I believe education and career reinvention should remain available throughout a person’s life. My repositories are designed to reduce barriers for people who may be changing careers, returning to work, managing disabilities, entering technology for the first time, or seeking a more practical path into cybersecurity and related fields.
@@ -136,6 +140,10 @@ Colección práctica multilingüe sobre seguridad de IA, gobernanza, riesgo, cum
 
 Colección estructurada de materiales sobre gobernanza, riesgo, cumplimiento, aseguramiento, resiliencia, riesgo de nube, riesgo de terceros y preparación regulatoria.
 
+#### [Proyecto de aprendizaje sobre ETF e inversión en Colombia](https://github.com/Chpmunk31456/ETF-Colombia-Investing-Learning)
+
+Sistema educativo estructurado sobre ETF, productos de inversión colombianos, planificación transfronteriza, flujo de caja para la jubilación, prevención del fraude, gobernanza de portafolios y controles para decisiones inmobiliarias.
+
 ### Misión de interés público
 
 Creo que la educación y la reinvención profesional deben permanecer disponibles durante toda la vida. Mis repositorios buscan reducir barreras para personas que cambian de carrera, regresan al trabajo, viven con discapacidades, ingresan por primera vez al sector tecnológico o buscan una ruta más práctica hacia la ciberseguridad y áreas relacionadas.
@@ -209,6 +217,10 @@ Coleção prática multilíngue sobre segurança de IA, governança, risco, conf
 #### [GRC Practical Manuals](https://github.com/Chpmunk31456/GRC-Practical-Manuals)
 
 Coleção estruturada de materiais sobre governança, risco, conformidade, asseguração, resiliência, risco de nuvem, risco de terceiros e preparação regulatória.
+
+#### [Projeto de aprendizagem sobre ETFs e investimentos na Colômbia](https://github.com/Chpmunk31456/ETF-Colombia-Investing-Learning)
+
+Sistema educacional estruturado sobre ETFs, produtos de investimento colombianos, planejamento transfronteiriço, fluxo de caixa na aposentadoria, prevenção de fraudes, governança de portfólio e controles para decisões imobiliárias.
 
 ### Missão de interesse público
 
